@@ -11,7 +11,7 @@ Additional feature added for flat file management and alteration
   - IBM DB2 
   
   
-### Database Setup
+### Setup
 
 The tool is setup to access the DB2 database and perform:
    -  Statistic reports generation
